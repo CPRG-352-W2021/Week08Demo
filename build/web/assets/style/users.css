@@ -1,0 +1,13 @@
+
+table td, table th {
+    padding: 5px 7px;
+}
+
+table tr:nth-child(2n+1) {
+    background-color: #d3dae3;
+}
+
+table tr:nth-child(2n) {
+    background-color: #bcc5d1;
+}
+

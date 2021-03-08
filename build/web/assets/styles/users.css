@@ -1,0 +1,10 @@
+table {
+    
+}
+tr:nth-child(n+1) {
+    background-color: #AEAEAE;
+}
+tr:nth-child(n-1) {
+    background-color: #123456;
+}
+
